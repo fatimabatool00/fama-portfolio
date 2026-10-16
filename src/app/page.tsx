@@ -287,7 +287,7 @@ export default function Home() {
         <a className="logo" href="#home">
           Fatima Batool<span>.</span>
         </a>
-        <p>Designed &amp; built with care · © {new Date().getFullYear()}</p>
+        <p>Designed &amp; built with care · © 2026</p>
         <a href="#home">Back to top ↑</a>
       </footer>
     </main>
